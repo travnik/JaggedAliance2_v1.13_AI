@@ -1,0 +1,9 @@
+ *** Wed Jan 29 10:22:51 2025 *** 
+[ 0TP7J-WMBXV-NN4J8-F4JKO-9PHXX ]
+
+[0.274002] : Backtrace: [Ja2.ini] - Error when opening file : 2
+
+[3.1427] : Backtrace: [vfs_config.ini] - Error when opening file : 2
+
+[3.14429] : Backtrace: no profiles specified
+

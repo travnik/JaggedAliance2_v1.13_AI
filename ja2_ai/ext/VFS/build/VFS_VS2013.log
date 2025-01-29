@@ -1,0 +1,46 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: каталог Intermediate заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Intermediate.
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  vfs_logging.cpp
+  vfs_settings.cpp
+  vfs_synchronization.cpp
+  vfs_buffer_file.cpp
+  vfs_dir_file.cpp
+  vfs_file.cpp
+  vfs_lib_file.cpp
+  vfs_interface_members.cpp
+  vfs_directory_tree.cpp
+  vfs_lib_dir.cpp
+  vfs_uncompressed_lib_base.cpp
+  vfs.cpp
+  vfs_debug.cpp
+  vfs_file_raii.cpp
+  vfs_init.cpp
+  vfs_os_functions.cpp
+D:\Projects\ja2_ai\ext\VFS\src\Core\vfs_debug.cpp(41,23): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Projects\ja2_ai\ext\VFS\src\Core\vfs_debug.cpp(76,23): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  vfs_path.cpp
+  vfs_profile.cpp
+  vfs_string.cpp
+  vfs_types.cpp
+  vfs_vfile.cpp
+D:\Projects\ja2_ai\ext\VFS\src\Core\vfs_string.cpp(197,3): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Projects\ja2_ai\ext\VFS\src\Core\vfs_string.cpp(302,11): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Projects\ja2_ai\ext\VFS\src\Core\vfs_string.cpp(304,10): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Projects\ja2_ai\ext\VFS\src\Core\vfs_string.cpp(336,11): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Projects\ja2_ai\ext\VFS\src\Core\vfs_string.cpp(338,10): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  vfs_vloc.cpp
+  vfs_7z_library.cpp
+  vfs_create_7z_library.cpp
+  vfs_slf_library.cpp
+  vfs_allocator.cpp
+  vfs_file_logger.cpp
+  vfs_hp_timer.cpp
+  vfs_log.cpp
+  vfs_parser_tools.cpp
+  vfs_profiler.cpp
+  vfs_property_container.cpp
+D:\Projects\ja2_ai\ext\VFS\src\Tools\vfs_log.cpp(375,24): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  vfs_tools.cpp
+D:\Projects\ja2_ai\ext\VFS\src\Tools\vfs_property_container.cpp(553,3): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Projects\ja2_ai\ext\VFS\src\Tools\vfs_property_container.cpp(558,2): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  VFS_VS2013.vcxproj -> D:\Projects\ja2_ai\ext\VFS\build\VFS.lib

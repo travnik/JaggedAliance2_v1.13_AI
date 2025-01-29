@@ -1,0 +1,43 @@
+ *** Tue Jan 28 17:12:29 2025 *** 
+[ MJJGB-F8JIA-JRFWQ-26TEG-86JIS ]
+
+[1.86e-05] : Closing sound system...
+[4.71e-05] : 	Stopping all sounds
+[6.07e-05] : Cleaning cache
+[7.25e-05] : 	Stopping all sounds
+[0.0001016] : Cache shutdown
+[0.0001135] : 	FMOD closed
+[0.0001241] : JA2 sound manager shutdown
+
+ *** Tue Jan 28 17:45:56 2025 *** 
+[ MOGQP-NBHOD-LG79I-VFUU1-7RV6T ]
+
+[3.24e-05] : Closing sound system...
+[8.74e-05] : 	Stopping all sounds
+[0.0001187] : Cleaning cache
+[0.0001392] : 	Stopping all sounds
+[0.0001746] : Cache shutdown
+[0.0001861] : 	FMOD closed
+[0.0001976] : JA2 sound manager shutdown
+
+ *** Wed Jan 29 10:22:01 2025 *** 
+[ 1WTXU-RMB78-L5WH9-TR120-X8AUS ]
+
+[3.13e-05] : Closing sound system...
+[6.67e-05] : 	Stopping all sounds
+[8.2e-05] : Cleaning cache
+[9.57e-05] : 	Stopping all sounds
+[0.0001333] : Cache shutdown
+[0.0001488] : 	FMOD closed
+[0.0001658] : JA2 sound manager shutdown
+
+ *** Wed Jan 29 10:23:02 2025 *** 
+[ 0TP7J-WMBXV-NN4J8-F4JKO-9PHXX ]
+
+[2.37e-05] : Closing sound system...
+[5.94e-05] : 	Stopping all sounds
+[7.74e-05] : Cleaning cache
+[8.88e-05] : 	Stopping all sounds
+[0.0001214] : Cache shutdown
+[0.0001394] : 	FMOD closed
+[0.000153] : JA2 sound manager shutdown

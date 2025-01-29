@@ -1,0 +1,8 @@
+ *** Wed Jan 29 10:22:54 2025 *** 
+[ 0TP7J-WMBXV-NN4J8-F4JKO-9PHXX ]
+
+[3.40451] : ERROR : File     :  D:\Projects\JaggedAliance2_v1.13_AI\ja2_ai\Standard Gaming Platform\sgp.cpp
+Line     :  761
+Location :  InitializeStandardGamingPlatform
+  Initializing Virtual File System failed
+

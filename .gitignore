@@ -1,0 +1,22 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+src/Services/*/*/bin
+src/Services/*/*/obj
+bin
+obj
+**/.DS_Store
+/tools/WindowsFormsApp1/.vs/WindowsFormsApp1/v16
+/tools/WindowsFormsApp1/packages
+*.suo
+/tools/WindowsFormsApp2/packages
+/tools/WindowsFormsApp2/.vs/WindowsFormsApp2/v16/TestStore/0
+/tools/WindowsFormsApp2/.vs/WindowsFormsApp2/DesignTimeBuild/.dtbcache.v2
+**.feature.cs
+/tools/ConsoleAppBpmOdatLogs/.vs/ConsoleAppBpmOdatLogs/DesignTimeBuild/.dtbcache.v2
+/tools/ConsoleAppBpmOdatLogs/.vs/ConsoleAppBpmOdatLogs/v16/TestStore/0/testlog.manifest
+/tools/ConsoleAppBpmOdatLogs/.vs/ConsoleAppBpmOdatLogs/v16/TestStore/0/000.testlog
+/ja2_ai/.vs/ja2_VS2013
+/ja2_ai/build/VS2013

@@ -2110,6 +2110,9 @@ public:
 	// Flugente: spotter
 	BOOLEAN IsSpotting();
 	BOOLEAN IsSpotting(INT32 sSpot, INT8 bLevel);
+	//travnik 
+	UINT8 GetSpottingRadius(void);
+
 	BOOLEAN CanSpot(INT32 sTargetGridNo = -1, INT8 bTargetLevel = 0);
 	BOOLEAN BecomeSpotter(INT32 sTargetGridNo, INT8 bTargetLevel);
 	void StopSpotting(void);

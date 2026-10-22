@@ -1347,7 +1347,11 @@ void LoadGameExternalOptions()
 
 	gGameExternalOptions.usSpotterPreparationTurns			= iniReader.ReadInteger("Tactical Gameplay Settings","SPOTTER_PREPARATIONTURNS", 2, 2,  10);
 	gGameExternalOptions.usSpotterRange						= iniReader.ReadInteger("Tactical Gameplay Settings","SPOTTER_RANGE",			10, 0,  30);
-	gGameExternalOptions.usSpotterMaxCTHBoost				= iniReader.ReadInteger("Tactical Gameplay Settings","SPOTTER_MAX_CTHBOOST",	50, 0, 100);
+	gGameExternalOptions.usSpotterMaxCTHBoost				=iniReader.ReadInteger("Tactical Gameplay Settings","SPOTTER_MAX_CTHBOOST",	50, 0, 100);
+	gGameExternalOptions.ubBinocularBaseRadius				= iniReader.ReadInteger("Tactical Gameplay Settings","BINOCULAR_BASE_RADIUS",	1, 0, 10);
+	gGameExternalOptions.fBinocularLevelCoeff				= iniReader.ReadFloat("Tactical Gameplay Settings","BINOCULAR_RADIUS_LEVEL_COEFF",	0.1f, 0.0f, 5.0f);
+	gGameExternalOptions.fSCBinocularRadiusCoeff = iniReader.ReadFloat("Tactical Gameplay Settings", "BINOCULAR_RADIUS_COEFF", 1.0f, 0.0f, 10.0f);
+
 		
 	gGameExternalOptions.ubExternalFeeding					= iniReader.ReadInteger("Tactical Gameplay Settings","EXTERNAL_FEEDING", 2, 0, 2);
 	

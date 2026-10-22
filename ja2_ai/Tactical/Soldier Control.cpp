@@ -20586,6 +20586,8 @@ BOOLEAN SOLDIERTYPE::IsSpotting(INT32 sSpot, INT8 bLevel)
 	return FALSE;
 }
 
+	FLOAT fRadius = gGameExternalOptions.ubBinocularBaseRadius + this->stats.bExpLevel * gGameExternalOptions.fBinocularLevelCoeff;
+	DebugMiscInfo(String("SpottingRadius [%d] when: base %d level %d if %d", this->ubID, iSkill, usMapPos, bLevel, ID));
 void SOLDIERTYPE::StopSpotting(void)
 {
 	this->usSkillCounter[SOLDIER_COUNTER_SPOTTER] = 0;
